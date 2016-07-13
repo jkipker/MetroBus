@@ -1,0 +1,1 @@
+<?php conall_edge_get_footer(); ?>

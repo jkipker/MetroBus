@@ -1,0 +1,1066 @@
+# Copyright (C) 2016 Edge Themes
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Conall 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/conall\n"
+"POT-Creation-Date: 2016-04-15 07:19:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:46
+msgid "404"
+msgstr ""
+
+#: 404.php:53
+msgid "Page not found"
+msgstr ""
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:26
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:29
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:30
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:31
+msgid "SUBMIT"
+msgstr ""
+
+#: comments.php:32
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:36
+msgid "Name"
+msgstr ""
+
+#: comments.php:37
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:38
+msgid "Website"
+msgstr ""
+
+#: framework/admin/skins/edge/templates/content-import.php:98
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/edge/templates/content-import.php:117
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/edge/templates/content-import.php:119
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/edge/templates/content-import.php:120
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/admin/skins/edge/templates/header.php:4
+msgid "edgt_logo"
+msgstr ""
+
+#: framework/admin/skins/edge/templates/header.php:16
+msgid "Save Changes"
+msgstr ""
+
+#: framework/edgt-framework.php:627
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:221
+#: framework/modules/blog/templates/lists/masonry-full-width.php:26
+#: framework/modules/blog/templates/lists/masonry.php:26
+msgid "LOAD MORE"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:490
+msgid "Facebook"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:491
+msgid "Twitter"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:492
+msgid "Linkedin"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:493
+msgid "Instagram"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:494
+msgid "Pinterest"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:495
+msgid "Tumbrl"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:496
+msgid "Google Plus"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:647
+msgid "Pingback:"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:651
+msgid "REPLY"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:652
+msgid "EDIT"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:836
+msgid "Continue reading"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:957
+msgid "READ MORE"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1151
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/modules/blog/templates/lists/parts/tags.php:3
+#: framework/modules/blog/templates/single/parts/tags.php:3
+msgid "Post Tags:"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/audio.php:4
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/no-posts.php:2
+#: framework/modules/shortcodes/blog-list/templates/blog-list-holder.php:19
+#: framework/modules/shortcodes/blog-slider/templates/blog-slider-holder.php:12
+#: framework/modules/shortcodes/product-list/templates/product-list-template.php:44
+#: search.php:79
+msgid "No posts were found."
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-author.php:1
+msgid "By"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:1
+msgid "Comments"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:1
+msgid "Comment"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/video.php:20
+#: framework/modules/portfolio/templates/single/media/self.php:14
+#: vc-templates/vc_row.php:206
+msgid "video thumb"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/author-info.php:17
+msgid "WRITTEN BY:"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/related-posts.php:4
+msgid "RELATED POSTS"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/single-navigation.php:13
+#: framework/modules/blog/templates/single/parts/single-navigation.php:22
+msgid "PREV"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/single-navigation.php:39
+#: framework/modules/blog/templates/single/parts/single-navigation.php:48
+msgid "NEXT"
+msgstr ""
+
+#: framework/modules/fullscreenmenu/fullscreen-menu-functions.php:7
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: framework/modules/header/functions.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/modules/header/functions.php:11
+msgid "Divided Left Navigation"
+msgstr ""
+
+#: framework/modules/header/functions.php:12
+msgid "Divided Right Navigation"
+msgstr ""
+
+#: framework/modules/header/functions.php:13
+msgid "Mobile Navigation"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:5
+msgid "logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:6
+msgid "dark logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:7
+msgid "light logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/mobile-logo.php:5
+msgid "mobile logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:13
+msgid "Top Bar Left"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:22
+msgid "Top Bar Center"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:30
+msgid "Top Bar Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:47
+msgid "Header Standard Widget Area"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:51
+msgid "Widgets added here will appear on the right hand side from the main menu. Only for Standard Header Type."
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:54
+msgid "Header Simple Widget Area"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:58
+msgid "Widgets added here will appear on the right hand side from the main menu. Only for Simple Header Type."
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:61
+msgid "Header Classic Widget Area"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:65
+msgid "Widgets added here will appear on the right hand side from the logo and logo will goes left. Only for Classic Header Type."
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:68
+msgid "Header Divided Widget Area"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:72
+msgid "Widgets added here will appear on the right hand side from the right part of menu items. Only for Divided Header Type."
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:75
+msgid "Header Full Screen Widget Area"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:79
+msgid "Widgets added here will appear on the right side of your header area. Only for Full Screen Header Type."
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:93
+msgid "Right From Mobile Logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:97
+msgid "Widgets added here will appear on the right hand side from the mobile logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:112
+msgid "Sticky Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:116
+msgid "Widgets added here will appear on the right hand side in sticky menu"
+msgstr ""
+
+#: framework/modules/like/like.php:132 framework/modules/like/like.php:145
+#: framework/modules/like/like.php:158
+msgid "Like this"
+msgstr ""
+
+#: framework/modules/like/like.php:135 framework/modules/like/like.php:148
+#: framework/modules/like/like.php:161
+msgid "You already like this!"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/categories.php:12
+msgid "Category:"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/content.php:7
+msgid "Illustration by:"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/date.php:3
+msgid "Date:"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/tags.php:11
+msgid "Tags:"
+msgstr ""
+
+#: framework/modules/search/templates/types/fullscreen-search.php:16
+#: framework/modules/search/templates/types/search-covers-header.php:9
+msgid "Search for..."
+msgstr ""
+
+#: framework/modules/search/templates/types/search-slides-from-header-bottom.php:8
+#: framework/modules/search/templates/types/search-slides-from-window-top.php:9
+#: framework/modules/widgets/search-opener/search-opener.php:102
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:25
+msgid "Edge Accordion Tab"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:36
+msgid "Title"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:39
+msgid "Section"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:40
+msgid "Enter accordion section title."
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:44
+msgid "Section ID"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:46
+msgid "Enter optional row ID. Make sure it is unique, and it is valid as w3c specification: %s (Must not have spaces)"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:46
+msgid "link"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:66
+msgid "Number"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:70
+msgid "Notes: This option is only available for type \"With Number\""
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:26
+msgid "Edge Accordion"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:37
+msgid "Extra class name"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:39
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: framework/modules/shortcodes/animation-holder/animation-holder.php:26
+msgid "Edge Animation Holder"
+msgstr ""
+
+#: framework/modules/shortcodes/blog-list/blog-list.php:27
+msgid "Edge Blog List"
+msgstr ""
+
+#: framework/modules/shortcodes/blog-slider/blog-slider.php:27
+msgid "Edge Blog Slider"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:39
+msgid "Edge Button"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:170
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:178
+msgid "Insert padding in format: 10px 20px 10px 20px"
+msgstr ""
+
+#: framework/modules/shortcodes/calltoaction/call-to-action-slider.php:19
+msgid "Edge Call To Action Slider"
+msgstr ""
+
+#: framework/modules/shortcodes/calltoaction/call-to-action.php:123
+msgid "Edge Call To Action"
+msgstr ""
+
+#: framework/modules/shortcodes/countdown/countdown.php:38
+msgid "Edge Countdown"
+msgstr ""
+
+#: framework/modules/shortcodes/counter/counter.php:37
+msgid "Edge Counter"
+msgstr ""
+
+#: framework/modules/shortcodes/customfont/custom-font.php:37
+msgid "Edge Custom Font"
+msgstr ""
+
+#: framework/modules/shortcodes/elements-holder/elements-holder-item.php:21
+msgid "Edge Elements Holder Item"
+msgstr ""
+
+#: framework/modules/shortcodes/elements-holder/elements-holder.php:18
+msgid "Edge Elements Holder"
+msgstr ""
+
+#: framework/modules/shortcodes/gallery-blocks/gallery-block-left-item.php:24
+msgid "Edge Gallery Blocks Left Item"
+msgstr ""
+
+#: framework/modules/shortcodes/gallery-blocks/gallery-block-right-item.php:24
+msgid "Edge Gallery Blocks Right Item"
+msgstr ""
+
+#: framework/modules/shortcodes/gallery-blocks/gallery-block.php:26
+msgid "Edge Gallery Blocks"
+msgstr ""
+
+#: framework/modules/shortcodes/gallery-blocks-masonry/gallery-block-item.php:24
+msgid "Edge Gallery Blocks Masonry Item"
+msgstr ""
+
+#: framework/modules/shortcodes/gallery-blocks-masonry/gallery-block.php:26
+msgid "Edge Gallery Blocks Masonry"
+msgstr ""
+
+#: framework/modules/shortcodes/gallery-blocks-two/gallery-block.php:26
+msgid "Edge Gallery Blocks 2"
+msgstr ""
+
+#: framework/modules/shortcodes/google-map/google-map.php:21
+msgid "Edge Google Map"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:36
+msgid "Edge Icon"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:81
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: framework/modules/shortcodes/icon-list-item/icon-list-item.php:34
+msgid "Edge Icon List Item"
+msgstr ""
+
+#: framework/modules/shortcodes/icon-with-text/icon-with-text.php:37
+msgid "Edge Icon With Text"
+msgstr ""
+
+#: framework/modules/shortcodes/image-with-text/image-with-text.php:35
+msgid "Edge Image With Text"
+msgstr ""
+
+#: framework/modules/shortcodes/imagegallery/image-gallery.php:35
+msgid "Edge Image Gallery"
+msgstr ""
+
+#: framework/modules/shortcodes/message/message.php:28
+msgid "Edge Message"
+msgstr ""
+
+#: framework/modules/shortcodes/number-with-text/number-with-text.php:37
+msgid "Edge Number With Text"
+msgstr ""
+
+#: framework/modules/shortcodes/ordered-list/ordered-list.php:18
+msgid "Edge List - Ordered"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/parallax-section.php:21
+msgid "Edge Parallax Section"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/parallax-sections.php:18
+msgid "Edge Parallax Section Holder"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:8
+msgid "parallax hero image"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:13
+msgid "parallax heading image"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:29
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:34
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:39
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:44
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-advanced.php:49
+msgid "parallax additional image"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-basic.php:15
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-template.php:14
+msgid "parallax main image"
+msgstr ""
+
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-basic.php:23
+#: framework/modules/shortcodes/parallax-sections/templates/parallax-section-template.php:20
+msgid "parallax side image"
+msgstr ""
+
+#: framework/modules/shortcodes/piecharts/piechartbasic/pie-chart-basic.php:37
+msgid "Edge Pie Chart"
+msgstr ""
+
+#: framework/modules/shortcodes/pricing-table/pricing-table.php:18
+msgid "Edge Pricing Table"
+msgstr ""
+
+#: framework/modules/shortcodes/pricing-table/pricing-tables.php:19
+msgid "Edge Pricing Tables"
+msgstr ""
+
+#: framework/modules/shortcodes/product-list/product-list.php:27
+msgid "Edge Product List"
+msgstr ""
+
+#: framework/modules/shortcodes/product-list/templates/product-list-template.php:19
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:86
+msgid "SALE"
+msgstr ""
+
+#: framework/modules/shortcodes/progress-bar/progress-bar.php:20
+msgid "Edge Progress Bar"
+msgstr ""
+
+#: framework/modules/shortcodes/section-title/section-title.php:28
+msgid "Edge Section Title"
+msgstr ""
+
+#: framework/modules/shortcodes/separator/separator.php:23
+msgid "Edge Separator"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/social-share.php:43
+msgid "Edge Social Share"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/templates/dropdown.php:4
+msgid "Share"
+msgstr ""
+
+#: framework/modules/shortcodes/tabs/tab.php:28
+msgid "Edge Tab"
+msgstr ""
+
+#: framework/modules/shortcodes/tabs/tabs.php:28
+msgid "Edge Tabs"
+msgstr ""
+
+#: framework/modules/shortcodes/team/team.php:71
+msgid "Edge Team"
+msgstr ""
+
+#: framework/modules/shortcodes/team-carousels/team-carousel.php:71
+msgid "Edge Team Carousel"
+msgstr ""
+
+#: framework/modules/shortcodes/team-carousels/team-carousels.php:36
+msgid "Edge Team Carousels"
+msgstr ""
+
+#: framework/modules/shortcodes/unordered-list/unordered-list.php:30
+msgid "Edge List - Unordered"
+msgstr ""
+
+#: framework/modules/shortcodes/video/video.php:37
+msgid "Edge Video"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:94
+msgid " Tag"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:106
+msgid "Author:"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:124
+msgid "Search results for: "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:135
+msgid "404 - Page not found"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:164
+msgid "Archive"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:233
+msgid "Home"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:259
+msgid "Search results for "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:332
+msgid "Posts tagged "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:336
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:349
+msgid "Page"
+msgstr ""
+
+#: framework/modules/widgets/instagram/instagram.php:10
+msgid "Display instagram images"
+msgstr ""
+
+#: framework/modules/widgets/lib/widget-class.php:75
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:56
+msgid "There are no options for this widget."
+msgstr ""
+
+#: framework/modules/widgets/sticky-sidebar/sticky-sidebar.php:8
+msgid "Use this widget to make the sidebar sticky. Drag it into the sidebar above the widget which you want to be the first element in the sticky sidebar."
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:7
+msgid "Edge Woocommerce Dropdown Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:93
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:171
+msgid "CART"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:94
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:172
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:126
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:204
+msgid "Quantity: "
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:128
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:206
+#: woocommerce/cart/cart.php:109
+msgid "Remove this item"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:134
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:212
+#: woocommerce/cart/cart.php:37
+msgid "TOTAL"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:145
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:223
+msgid "VIEW CART"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:146
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:224
+msgid "CHECKOUT"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-functions.php:300
+msgid "Share:"
+msgstr ""
+
+#: functions.php:934
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:935
+msgid "Loading new posts..."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+
+#: includes/nav-menu/edit_custom_walker.php:78
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+
+#: includes/nav-menu/edit_custom_walker.php:82
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:107
+msgid "Move up"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:120
+msgid "Move down"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:122
+#: includes/nav-menu/edit_custom_walker.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:133
+msgid "URL"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:170
+msgid "Description"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:172
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:180
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:191
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:201
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:208
+msgid "Type"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:217
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:236
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:242
+msgid "Only with \"default\" & \"wide with icons\" menu types"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:253
+msgid "Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:272
+msgid "Featured Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:275
+msgid "Star"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:276
+msgid "Paw"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:277
+msgid "Heart"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:278
+msgid "Thumbs Up"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:286
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:297
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:306
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:319
+msgid "Remove"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:320
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:71
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:72
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:73
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:75
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:76
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:77
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:78
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:79
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:80
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:81
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:82
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:84
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:85
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:86
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:87
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/sidebar/edgt-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/edgt-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/edgt-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr ""
+
+#: search.php:31
+msgid "NEW SEARCH"
+msgstr ""
+
+#: search.php:32
+msgid "If you're not happy with the results, please do another search"
+msgstr ""
+
+#: search.php:54
+msgid "Post Feature Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "PRODUCT"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34
+msgid "PRICE"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "QUANTITY"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+msgid "REMOVE"
+msgstr ""
+
+#: woocommerce/cart/cart.php:52
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Conall"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://conall.edge-themes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Clean & Beautiful Multipurpose Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Edge Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/edge-themes"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Masonry Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Masonry"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Split Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard Whole Post"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Coming Soon Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce"
+msgstr ""

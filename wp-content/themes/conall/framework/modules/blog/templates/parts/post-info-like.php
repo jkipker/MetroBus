@@ -1,0 +1,1 @@
+<div class="edgtf-blog-like"><?php if( function_exists('conall_edge_get_like') ) conall_edge_get_like(); ?></div>

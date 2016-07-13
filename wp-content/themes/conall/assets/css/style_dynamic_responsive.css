@@ -1,0 +1,18 @@
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	/* generated in /mnt/stor9-wc2-dfw1/534684/889468/metrobus.pavlovagency.com/web/content/wp-content/themes/conall/assets/custom-styles/general-custom-styles-responsive.php conall_edge_design_responsive_styles function */
+.edgtf-section.edgtf-parallax-section-holder { height: auto !important;min-height: 400px;}
+
+}
+
+@media only screen and (max-width: 480px){
+	/* generated in /mnt/stor9-wc2-dfw1/534684/889468/metrobus.pavlovagency.com/web/content/wp-content/themes/conall/assets/custom-styles/general-custom-styles-responsive.php conall_edge_design_responsive_styles function */
+.edgtf-section.edgtf-parallax-section-holder { height: auto !important;min-height: 400px;}
+
+}
+
+@media only screen and (max-width: 1024px){
+	/* generated in /mnt/stor9-wc2-dfw1/534684/889468/metrobus.pavlovagency.com/web/content/wp-content/themes/conall/assets/custom-styles/general-custom-styles-responsive.php conall_edge_content_responsive_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner, .edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding-top: 0px!important;}
+
+}
