@@ -11,6 +11,9 @@
 	<?php if (!conall_edge_is_ajax_request()) do_action('conall_edge_header_meta'); ?>
 
 	<?php if (!conall_edge_is_ajax_request()) wp_head(); ?>
+
+    <!--INCLUDE CUSTOM CSS-->
+    <link rel='stylesheet' id='pavlov-custom-css'  href='/wp-content/themes/conall/custom-styles.css' type='text/css' media='all' />
 </head>
 <body <?php body_class();?> itemscope itemtype="http://schema.org/WebPage">
 <?php if (!conall_edge_is_ajax_request()) conall_edge_get_side_area(); ?>
