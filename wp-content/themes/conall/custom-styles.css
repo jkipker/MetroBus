@@ -155,6 +155,31 @@
     }
 }
 
-div{
-    border: thin red solid;
+
+/* JK-CUSTOM STYLES */
+
+.wpb_text_column .wpb_wrapper p{
+    /*border: thin red solid;*/
 }
+
+.vc_custom_1465858798059,  .vc_custom_1465858789700, .vc_custom_1465858806102{
+    height: 450px;
+    padding: 50px !important;
+}
+
+.vc_custom_1465858798059 h2,  .vc_custom_1465858789700 h2, .vc_custom_1465858806102 h2{
+        margin-top:0;
+    }
+
+.vc_custom_1465858798059 .wpb_wrapper, .vc_custom_1465858789700 .wpb_wrapper, .vc_custom_1465858806102 .wpb_wrapper{
+    position: absolute;
+    margin: auto;
+    width: 70%;
+    left: 14%;
+    /*top: 10%;*/
+}
+
+
+
+
+
